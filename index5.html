@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Daily Tracker</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+:root {
+  --bg:#0b0c10; --panel:#111218; --border:#1f2230;
+  --text:#e5e7eb; --muted:#9ca3af; --accent:#4f46e5;
+}
+*{box-sizing:border-box;font-family:system-ui}
+body{margin:0;background:var(--bg);color:var(--text)}
+.wrapper{max-width:1100px;margin:auto;padding:36px}
+h1{font-weight:600;margin-bottom:4px}
+.sub{color:var(--muted);margin-bottom:28px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:14px}
+label{font-size:.8rem;color:var(--muted)}
+input,textarea{
+  width:100%;margin-top:6px;background:#0c0d12;
+  border:1px solid var(--border);border-radius:6px;
+  padding:9px;color:var(--text)
+}
+textarea{height:110px;resize:none}
+.section{margin-top:28px}
+.flex{display:flex;gap:20px;flex-wrap:wrap}
+.chart{flex:1;background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:16px}
+.footer{display:flex;justify-content:space-between;margin-top:24px;align-items:center}
+button{
+  background:var(--accent);border:none;border-radius:8px;
+  padding:10px 18px;color:#fff;font-size:.9rem;cursor:pointer
+}
+.summary{color:var(--muted)}
+.todo-item{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:8px 10px;
+  margin-bottom:8px;
+  background:#0c0d12;
+  border:1px solid #1f2230;
+  border-radius:6px;
+}
+
+.todo-item.done{
+  opacity:.5;
+  text-decoration:line-through;
+}
+
+.todo-actions button{
+  margin-left:6px;
+  background:#374151;
+  padding:4px 8px;
+  font-size:.75rem;
+}
+
+</style>
+</head>
+
+<body>
+<div class="wrapper">
+  <h1>Daily Tracker</h1>
+  <div class="sub">Minimal. Focused. Data-first.</div>
+
+  <div class="grid" id="inputs"></div>
+
+  <div class="section">
+    <label class="sub">Notes</label>
+    <textarea id="notes" placeholder="What mattered today?"></textarea>
+  </div>
+
+  <div class="footer">
+    <div class="summary" id="total"></div>
+    <button onclick="save()">Save Day</button>
+    <button style="background:#dc2626;margin-left:10px" onclick="resetData()">Clear All</button>
+    <button style="background:#f97316;margin-left:10px" onclick="deleteToday()">Delete Today</button>
+
+    <div style="margin-top:16px">
+  <label class="sub" style="margin-right:8px">Select Day to Delete:</label>
+  <select id="deleteDate" style="padding:8px;border-radius:6px;border:1px solid #1f2230;background:#0c0d12;color:#e5e7eb"></select>
+  <button style="background:#f97316;margin-left:10px" onclick="deleteSelectedDay()">Delete Selected</button>
+        <button style="background:#10b981;margin-left:10px" onclick="exportData()">Export CSV</button>
+
+
+</div>
+
+
+  </div>
+
+  <div class="section flex">
+    <div class="chart"><canvas id="barChart"></canvas></div>
+    <div class="chart"><canvas id="lineChart"></canvas></div>
+  </div>
+  <div class="section">
+  <h2 style="font-weight:500;margin-bottom:12px">Weekly Overview</h2>
+
+  <div class="flex">
+    <div class="chart"><canvas id="weeklyBar"></canvas></div>
+
+    <div class="card" style="flex:1">
+      <div class="summary" id="weeklyStats"></div>
+      <textarea id="weeklyNotes" placeholder="Weekly reflection..." style="margin-top:12px;height:120px"></textarea>
+    </div>
+</div>
+</div>
+<!-- <div class="section">
+  <h2 style="font-weight:500;margin-bottom:12px">Week Comparison</h2>
+
+  <div class="flex">
+    <div class="chart"><canvas id="compareChart"></canvas></div>
+
+    <div class="card" style="flex:1">
+      <div class="summary" id="compareStats"></div>
+    </div>
+  </div>
+</div> -->
+
+<div class="section">
+  <h2 style="font-weight:500;margin-bottom:12px">Monthly Dashboard</h2>
+
+  <label class="sub">Select Month</label>
+  <select id="monthSelect"
+    style="padding:8px;border-radius:6px;border:1px solid #1f2230;
+           background:#0c0d12;color:#e5e7eb"
+    onchange="renderMonthly()">
+  </select>
+
+  <div class="flex" style="margin-top:16px">
+    <div class="chart"><canvas id="monthlyChart"></canvas></div>
+
+    <div class="card" style="flex:1">
+      <div class="summary" id="monthlyStats"></div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h2 style="font-weight:500;margin-bottom:12px">Today's To-Do</h2>
+
+  <div class="card">
+    <div style="display:flex;gap:10px">
+      <input id="todoInput" placeholder="Add a task..." />
+      <button onclick="addTodo()">Add</button>
+    </div>
+
+    <ul id="todoList" style="list-style:none;padding:0;margin-top:14px"></ul>
+  </div>
+</div>
+
+
+</div>
+
+
+<script>
+/* ===================== DOM ===================== */
+const $ = id => document.getElementById(id);
+
+/* ===================== STATE ===================== */
+const fields = ["Study","Fitness","Coding","Self","Extra","Sleep"];
+let state = JSON.parse(localStorage.getItem("history") || "[]");
+let todos = [];
+
+/* ===================== INPUT UI ===================== */
+const inputs = $("inputs");
+fields.forEach(f=>{
+  inputs.innerHTML += `
+    <div class="card">
+      <label>${f} (hrs)</label>
+      <input id="${f}" type="number" step="0.5">
+    </div>`;
+});
+
+/* ===================== SAVE ===================== */
+function save(){
+  const today = new Date().toISOString().split("T")[0];
+  state = state.filter(d=>d.date!==today);
+
+  const entry = {
+  date: today,
+  notes: $("notes").value,
+  todos: todos || []
+};
+
+  fields.forEach(f=> entry[f] = Number($(f).value)||0);
+  state.push(entry);
+
+  if(state.length>31) state.shift();
+  entry.weeklyNotes = $("weeklyNotes").value;
+  commit();
+
+
+}
+
+/* ===================== DELETE ===================== */
+function deleteToday(){
+  const today = new Date().toISOString().split("T")[0];
+  state = state.filter(d=>d.date!==today);
+  commit();
+}
+
+function deleteSelectedDay(){
+  const idx = Number($("deleteDate").value);
+  if(isNaN(idx)) return;
+  state.splice(idx,1);
+  commit();
+}
+
+function resetData(){
+  if(!confirm("Delete all data?")) return;
+  state=[];
+  localStorage.clear();
+  commit();
+}
+
+/* ===================== EXPORT ===================== */
+function exportData(){
+  if(!state.length) return alert("No data");
+  const csv=[
+    ["Date",...fields,"Notes"].join(","),
+    ...state.map(d=>[
+      d.date,
+      ...fields.map(f=>d[f]),
+      `"${(d.notes||"").replace(/"/g,'""')}"`
+    ].join(","))
+  ].join("\n");
+
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(new Blob([csv]));
+  a.download="tracker.csv";
+  a.click();
+}
+
+/* ===================== CHARTS ===================== */
+let bar = new Chart($("barChart"),{
+  type:"bar",
+  data:{labels:fields,datasets:[{data:[],backgroundColor:"#4f46e5"}]},
+  options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true}}}
+});
+
+// let line = new Chart($("lineChart"),{
+//   type:"line",
+//   data:{labels:[],datasets:[{data:[],borderColor:"#4f46e5",tension:.3}]},
+//   options:{plugins:{legend:{display:false}},scales:{y:{beginAtZero:true}}}
+// });
+
+let line = new Chart($("lineChart"), {
+  type: "line",
+  data: {
+    labels: [],
+    datasets: [
+      {
+        label: "Active Hours",
+        data: [],
+        borderWidth: 3,
+        tension: 0.35,
+        pointRadius: 3,
+        pointHoverRadius: 6,
+        borderColor: "#4f46e5",
+        backgroundColor: "rgba(79,70,229,0.15)",
+        fill: true
+      },
+      {
+        label: "Sleep",
+        data: [],
+        borderWidth: 2,
+        tension: 0.3,
+        pointRadius: 3,
+        borderDash: [6, 6],
+        borderColor: "#22c55e",
+        backgroundColor: "transparent"
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { display: true },
+      tooltip: {
+        callbacks: {
+          label: ctx => `${ctx.dataset.label}: ${ctx.raw} hrs`
+        }
+      }
+    },
+    scales: {
+      x: {
+        grid: { display: false }
+      },
+      y: {
+        beginAtZero: true,
+        title: {
+          display: true,
+          text: "Hours"
+        }
+      }
+    }
+  }
+});
+
+
+let weeklyBar = new Chart($("weeklyBar"),{
+  type:"bar",
+  data:{ labels:[], datasets:[] },
+  options:{
+    responsive:true,
+    scales:{
+      x:{ stacked:true },
+      y:{ stacked:true, beginAtZero:true }
+    }
+  }
+});
+
+
+// let compareChart = new Chart($("compareChart"),{
+//   type:"bar",
+//   data:{labels:fields,datasets:[
+//     {label:"Last Week",data:[],backgroundColor:"#374151"},
+//     {label:"This Week",data:[],backgroundColor:"#4f46e5"}
+//   ]},
+//   options:{scales:{y:{beginAtZero:true}}}
+// });
+
+let monthlyChart = new Chart($("monthlyChart"),{
+  type:"bar",
+  data:{labels:fields,datasets:[{data:[],backgroundColor:"#4f46e5"}]},
+  options:{scales:{y:{beginAtZero:true}}}
+});
+
+/* ===================== RENDER ===================== */
+
+// function commit(){
+//   localStorage.setItem("history",JSON.stringify(state));
+//   renderAll();
+// }
+
+function commit(){
+  if(state.length){
+    state[state.length-1].todos = todos;
+  }
+  localStorage.setItem("history", JSON.stringify(state));
+  renderAll();
+}
+
+function renderAll(){
+  renderInputs();
+  renderCharts();
+  renderWeekly();
+  populateDeleteSelector();
+  populateMonths();
+  renderTotal();
+}
+
+function addTodo(){
+  const text = $("todoInput").value.trim();
+  if(!text) return;
+
+  todos.push({ text, done:false });
+  $("todoInput").value="";
+  renderTodos();
+  commit();
+}
+
+function toggleTodo(i){
+  todos[i].done = !todos[i].done;
+  renderTodos();
+  commit();
+}
+
+function deleteTodo(i){
+  todos.splice(i,1);
+  renderTodos();
+  commit();
+}
+
+function renderTodos(){
+  const ul = $("todoList");
+  ul.innerHTML="";
+
+  todos.forEach((t,i)=>{
+    const li = document.createElement("li");
+    li.className = "todo-item" + (t.done ? " done" : "");
+
+    li.innerHTML = `
+      <span onclick="toggleTodo(${i})" style="cursor:pointer">${t.text}</span>
+      <div class="todo-actions">
+        <button onclick="deleteTodo(${i})">✕</button>
+      </div>
+    `;
+    ul.appendChild(li);
+  });
+}
+
+function renderTotal(){
+  if(!state.length) return;
+  const last = state[state.length-1];
+  const sum = fields.reduce((a,f)=>a + last[f], 0).toFixed(1);
+  $("total").innerHTML = `Today's Total: <b>${sum} hrs</b>`;
+}
+
+function renderInputs(){
+  if(!state.length) return;
+  const d = state[state.length-1];
+
+  fields.forEach(f=>$(f).value=d[f]);
+  $("notes").value = d.notes || "";
+
+  todos = d.todos || [];
+  renderTodos();
+}
+
+
+function renderCharts(){
+  if(!state.length) return;
+
+  const last = state[state.length-1];
+
+  // Bar chart (unchanged)
+  bar.data.datasets[0].data = fields.map(f => last[f]);
+  bar.update();
+
+  // ===== Enhanced Line Chart =====
+  const recent = state.slice(-14); // last 14 days
+
+  line.data.labels = recent.map(d => d.date.slice(5));
+
+  const activeFields = fields.filter(f => f !== "Sleep");
+
+  line.data.datasets[0].data = recent.map(d =>
+    activeFields.reduce((a,f)=>a + d[f], 0)
+  );
+
+  line.data.datasets[1].data = recent.map(d => d.Sleep);
+
+  line.update();
+}
+
+
+// function renderWeekly(){
+//   const week = state.slice(-7);
+//   if(!week.length) return;
+
+//   const totals = {};
+//   fields.forEach(f => totals[f] = 0);
+
+//   week.forEach(d => {
+//     fields.forEach(f => totals[f] += d[f]);
+//   });
+
+//   // Update weekly bar chart
+//   weeklyBar.data.datasets[0].data = fields.map(f => totals[f]);
+//   weeklyBar.update();
+
+//   const days = week.length;
+
+//   const totalWeek = Object.values(totals).reduce((a,b)=>a+b,0).toFixed(1);
+
+//   const avgSleep   = (totals.Sleep   / days).toFixed(1);
+//   const avgCoding  = (totals.Coding  / days).toFixed(1);
+//   const avgFitness = (totals.Fitness / days).toFixed(1);
+//   const avgStudy   = (totals.Study   / days).toFixed(1);
+//   const avgSelf    = (totals.Self    / days).toFixed(1);
+
+//   $("weeklyStats").innerHTML = `
+//     <div>Total this week: <b>${totalWeek} hrs</b></div>
+//     <div>Avg Sleep: <b>${avgSleep} hrs</b></div>
+//     <div>Avg Coding: <b>${avgCoding} hrs</b></div>
+//     <div>Avg Fitness: <b>${avgFitness} hrs</b></div>
+//     <div>Avg Study: <b>${avgStudy} hrs</b></div>
+//     <div>Avg Self Work: <b>${avgSelf} hrs</b></div>
+//   `;
+
+//   $("weeklyNotes").value = week[week.length-1].weeklyNotes || "";
+
+// }
+
+function renderWeekly(){
+  const week = state.slice(-7);
+  if(!week.length) return;
+
+  weeklyBar.data.labels = week.map(d => d.date.slice(5));
+
+  weeklyBar.data.datasets = fields
+    .filter(f => f !== "Sleep")
+    .map((f,i)=>({
+      label:f,
+      data:week.map(d=>d[f]),
+      backgroundColor:`hsl(${i*50},70%,55%)`
+    }));
+
+  weeklyBar.update();
+
+  const totalActive = week.reduce(
+    (a,d)=>a + fields.filter(f=>f!=="Sleep").reduce((x,f)=>x+d[f],0),
+    0
+  );
+
+  $("weeklyStats").innerHTML = `
+    <div>Active Hours (7 days): <b>${totalActive.toFixed(1)}</b></div>
+    <div>Consistency: <b>${(totalActive/7).toFixed(1)} hrs/day</b></div>
+  `;
+}
+
+
+// function renderComparison(){
+//   if(state.length<14) return;
+
+//   const sum=w=>{
+//     const t={}; fields.forEach(f=>t[f]=0);
+//     w.forEach(d=>fields.forEach(f=>t[f]+=d[f]));
+//     return t;
+//   };
+
+//   const A=sum(state.slice(-14,-7));
+//   const B=sum(state.slice(-7));
+
+//   compareChart.data.datasets[0].data=fields.map(f=>A[f]);
+//   compareChart.data.datasets[1].data=fields.map(f=>B[f]);
+//   compareChart.update();
+// }
+
+function populateDeleteSelector(){
+  const sel=$("deleteDate");
+  sel.innerHTML="";
+  state.forEach((d,i)=>{
+    const o=document.createElement("option");
+    o.value=i; o.text=d.date;
+    sel.appendChild(o);
+  });
+}
+
+// function populateMonths(){
+//   const sel=$("monthSelect");
+//   sel.innerHTML="";
+//   [...new Set(state.map(d=>d.date.slice(0,7)))]
+//     .forEach(m=>{
+//       const o=document.createElement("option");
+//       o.value=m; o.text=m;
+//       sel.appendChild(o);
+//     });
+//   renderMonthly();
+// }
+
+function populateMonths(){
+  const sel = $("monthSelect");
+  const prev = sel.value;
+  sel.innerHTML = "";
+
+  [...new Set(state.map(d=>d.date.slice(0,7)))]
+    .forEach(m=>{
+      const o=document.createElement("option");
+      o.value=m; o.text=m;
+      if(m===prev) o.selected=true;
+      sel.appendChild(o);
+    });
+
+  if(!sel.value && sel.options.length)
+    sel.value = sel.options[0].value;
+
+  renderMonthly();
+}
+
+// function renderMonthly(){
+//   const m=$("monthSelect").value;
+//   if(!m) return;
+
+//   const days=state.filter(d=>d.date.startsWith(m));
+//   const totals={}; fields.forEach(f=>totals[f]=0);
+//   days.forEach(d=>fields.forEach(f=>totals[f]+=d[f]));
+
+//   monthlyChart.data.datasets[0].data=fields.map(f=>totals[f]);
+//   monthlyChart.update();
+
+//   $("monthlyStats").innerHTML=`
+//     <div>Total: <b>${Object.values(totals).reduce((a,b)=>a+b,0)}</b></div>
+//     <div>Days: <b>${days.length}</b></div>
+//   `;
+// }
+function renderMonthly(){
+  const m=$("monthSelect").value;
+  if(!m) return;
+
+  const days=state.filter(d=>d.date.startsWith(m));
+  if(!days.length) return;
+
+  const totals={}; fields.forEach(f=>totals[f]=0);
+  days.forEach(d=>fields.forEach(f=>totals[f]+=d[f]));
+
+  monthlyChart.data.datasets[0].data =
+    fields.map(f => (totals[f]/days.length).toFixed(1));
+
+  monthlyChart.update();
+
+  $("monthlyStats").innerHTML=`
+    <div>Days tracked: <b>${days.length}</b></div>
+    <div>Avg active/day: <b>${
+      fields.filter(f=>f!=="Sleep")
+        .reduce((a,f)=>a + totals[f],0)/days.length
+    }</b></div>
+  `;
+}
+
+
+/* ===================== INIT ===================== */
+renderAll();
+</script>
+
+</body>
+</html>
