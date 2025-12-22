@@ -52,6 +52,10 @@ Chart.js for data visualization
 
 GitHub Pages for deployment
 
+🚀 Live Demo
+
+🔗 https://kumarvedansh12.github.io/Daily-Tracker/
+
 🎯 Purpose
 
 This project was built to:
