@@ -74,6 +74,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -114,4 +115,12 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
