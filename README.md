@@ -80,6 +80,7 @@ Create a deployable web application without frameworks
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
@@ -105,6 +106,7 @@ Create a deployable web application without frameworks
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -134,6 +136,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
