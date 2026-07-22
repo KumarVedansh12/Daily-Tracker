@@ -90,6 +90,7 @@ Create a deployable web application without frameworks
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
@@ -135,4 +136,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
