@@ -1,22 +1,23 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        int n=nums.size();
-        int zero=0;
-        int one=0;
-        int two=0;
-        for(int x: nums){
-            if(x==0) zero++;
-            else if(x==1) one++;
-            else two++;
-        }
-        int index=0;
-        while(zero--){
-            nums[index++]=0;
-        }
-        while (one--)
-            nums[index++] = 1;
-        while (two--)
-            nums[index++] = 2;
+        sort(nums.begin(),nums.end());
+        // int n=nums.size();
+        // int zero=0;
+        // int one=0;
+        // int two=0;
+        // for(int x: nums){
+        //     if(x==0) zero++;
+        //     else if(x==1) one++;
+        //     else two++;
+        // }
+        // int index=0;
+        // while(zero--){
+        //     nums[index++]=0;
+        // }
+        // while (one--)
+        //     nums[index++] = 1;
+        // while (two--)
+        //     nums[index++] = 2;
     }
 };
