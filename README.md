@@ -94,6 +94,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3536-maximum-product-of-two-digits) |
@@ -167,4 +169,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
