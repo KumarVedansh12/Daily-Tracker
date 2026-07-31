@@ -101,6 +101,7 @@ Create a deployable web application without frameworks
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
