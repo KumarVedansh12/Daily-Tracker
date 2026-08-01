@@ -92,6 +92,7 @@ Create a deployable web application without frameworks
 | [1539-kth-missing-positive-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ Create a deployable web application without frameworks
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -184,4 +186,5 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
