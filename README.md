@@ -85,6 +85,7 @@ Create a deployable web application without frameworks
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -157,6 +158,7 @@ Create a deployable web application without frameworks
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -166,6 +168,7 @@ Create a deployable web application without frameworks
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3536-maximum-product-of-two-digits) |
