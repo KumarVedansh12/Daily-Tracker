@@ -82,6 +82,7 @@ Create a deployable web application without frameworks
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
@@ -123,6 +124,7 @@ Create a deployable web application without frameworks
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -147,6 +149,7 @@ Create a deployable web application without frameworks
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
@@ -193,4 +196,8 @@ Create a deployable web application without frameworks
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
