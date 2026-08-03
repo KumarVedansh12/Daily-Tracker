@@ -78,6 +78,7 @@ Create a deployable web application without frameworks
 | [0033-search-in-rotated-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
@@ -108,6 +109,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0009-palindrome-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
