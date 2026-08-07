@@ -162,6 +162,7 @@ Create a deployable web application without frameworks
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
