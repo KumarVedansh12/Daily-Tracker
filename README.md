@@ -191,6 +191,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,4 +221,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
