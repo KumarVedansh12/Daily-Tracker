@@ -168,6 +168,7 @@ Create a deployable web application without frameworks
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
@@ -224,5 +225,6 @@ Create a deployable web application without frameworks
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
