@@ -232,4 +232,16 @@ Create a deployable web application without frameworks
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
