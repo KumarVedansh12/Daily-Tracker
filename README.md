@@ -244,4 +244,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
