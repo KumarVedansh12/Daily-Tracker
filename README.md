@@ -196,6 +196,7 @@ Create a deployable web application without frameworks
 | [0024-swap-nodes-in-pairs](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Create a deployable web application without frameworks
 | [0024-swap-nodes-in-pairs](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -251,4 +253,12 @@ Create a deployable web application without frameworks
 | [0180-consecutive-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0197-rising-temperature) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
