@@ -11,33 +11,13 @@
 class Solution {
 public:
     ListNode* removeNodes(ListNode* head) {
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        while (curr != NULL) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-        head = prev;
-        int maxi = head->val;
-        curr = head;
-        while (curr->next != NULL) {
-            if (curr->next->val < maxi) {
-                curr->next = curr->next->next;
-            } else {
-                curr = curr->next;
-                maxi = curr->val;
-            }
-        }
-        prev = NULL;
-        curr = head;
-        while (curr != NULL) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-        return prev;
+       if(head==NULL || head->next==NULL){
+        return head;
+       }
+       head->next=removeNodes(head->next);
+       if(head->val<head->next->val)
+       return head->next;
+
+       return head;
     }
 };
