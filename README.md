@@ -177,6 +177,7 @@ Create a deployable web application without frameworks
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -240,6 +241,7 @@ Create a deployable web application without frameworks
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
