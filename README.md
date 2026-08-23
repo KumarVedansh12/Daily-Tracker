@@ -266,6 +266,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0180-consecutive-numbers) |
+| [0184-department-highest-salary](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0197-rising-temperature) |
 ## Stack
