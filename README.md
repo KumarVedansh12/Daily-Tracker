@@ -174,6 +174,7 @@ Create a deployable web application without frameworks
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
@@ -239,6 +240,7 @@ Create a deployable web application without frameworks
 | [0002-add-two-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
