@@ -83,6 +83,7 @@ Create a deployable web application without frameworks
 | [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
@@ -285,4 +286,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
