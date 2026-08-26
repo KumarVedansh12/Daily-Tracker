@@ -120,6 +120,7 @@ Create a deployable web application without frameworks
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
@@ -157,6 +158,7 @@ Create a deployable web application without frameworks
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
@@ -224,6 +226,7 @@ Create a deployable web application without frameworks
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
