@@ -255,6 +255,7 @@ Create a deployable web application without frameworks
 | [0203-remove-linked-list-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
