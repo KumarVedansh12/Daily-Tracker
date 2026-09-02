@@ -184,6 +184,7 @@ Create a deployable web application without frameworks
 | [0086-partition-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
@@ -213,6 +214,7 @@ Create a deployable web application without frameworks
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
@@ -257,6 +259,7 @@ Create a deployable web application without frameworks
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
@@ -307,6 +310,7 @@ Create a deployable web application without frameworks
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
