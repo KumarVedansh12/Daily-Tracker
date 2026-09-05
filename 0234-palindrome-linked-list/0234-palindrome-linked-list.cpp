@@ -2,6 +2,7 @@
  * Definition for singly-linked list.
  * struct ListNode {
  #      stitch google
+ #      masai iit p
  *     int val;
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
@@ -11,36 +12,19 @@
  */
 class Solution {
 public:
-    ListNode* reversenode(ListNode* head){
-        ListNode* temp=head;
-        ListNode* prev=NULL;
-        while(temp!=NULL){
-            ListNode* front=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=front;
-        }
-        return prev;
+bool isPalindrome(ListNode* head) {
+    stack<int>st;
+    ListNode* temp=head;
+    while(temp!=NULL){
+        st.push(temp->val);
+        temp=temp->next;
     }
-    bool isPalindrome(ListNode* head) {
-        if(head==NULL || head->next==NULL)
-        return head;
-        ListNode* slow=head;
-        ListNode* fast=head;
-        while(fast->next!=NULL&& fast->next->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
-        }
-        ListNode* second=reversenode(slow->next);
-        ListNode* first = head;
-        ListNode* temp = second;
-        while(temp!=NULL){
-            if(temp->val!=first->val){
-                return false;
-            }
-            temp=temp->next;
-            first=first->next;
-        }
-        return true;
+    temp=head;
+    while(temp!=NULL){
+        if(temp->val!=st.top()) return false;
+        temp=temp->next;
+        st.pop();
+    }
+    return true;
     }
 };
