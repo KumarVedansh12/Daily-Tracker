@@ -89,6 +89,7 @@ Create a deployable web application without frameworks
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
@@ -171,6 +172,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0724-find-pivot-index) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
