@@ -8,20 +8,34 @@
  */
 class Solution {
 public:
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        map<ListNode*,int> mpp;
-       ListNode* temp=headA;
-       while(temp!=NULL){
-        mpp[temp]=1;
-        temp=temp->next;
-       }
-       temp=headB;
-       while(temp!=NULL){
-        if(mpp.find(temp)!=mpp.end()){
-            return temp;
+    ListNode* collisionpoint(ListNode* t1, ListNode* t2, int d){
+        while(d){
+            d--;
+            t2=t2->next;
         }
-        temp=temp->next;
-       }
-       return  NULL;
+        while(t1!=t2){
+            t1=t1->next;
+            t2=t2->next;
+        }
+        return t1;
+    }
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        int n1=0,n2=0;
+        ListNode* temp1=headA;
+        ListNode* temp2=headB;
+        while(temp1!=NULL){
+            n1++;
+            temp1=temp1->next;
+        }
+        while(temp2!=NULL){
+            n2++;
+            temp2=temp2->next;
+        }
+        if(n1<n2){
+            return collisionpoint(headA,headB,n2-n1);
+        }
+        else{
+            return collisionpoint(headB,headA,n1-n2);
+        }
     }
 };
