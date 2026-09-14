@@ -126,6 +126,7 @@ Create a deployable web application without frameworks
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0836-rectangle-overlap) |
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -370,4 +371,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
