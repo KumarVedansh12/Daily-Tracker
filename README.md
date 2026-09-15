@@ -101,6 +101,7 @@ Create a deployable web application without frameworks
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -202,6 +203,7 @@ Create a deployable web application without frameworks
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -241,6 +243,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
 | ------- |
