@@ -87,6 +87,7 @@ Create a deployable web application without frameworks
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +129,7 @@ Create a deployable web application without frameworks
 | [0050-powx-n](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0836-rectangle-overlap) |
@@ -198,6 +200,7 @@ Create a deployable web application without frameworks
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
