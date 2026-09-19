@@ -115,6 +115,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0001-two-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
@@ -199,6 +200,7 @@ Create a deployable web application without frameworks
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -282,6 +284,7 @@ Create a deployable web application without frameworks
 | [0086-partition-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0203-remove-linked-list-elements) |
@@ -392,4 +395,5 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
