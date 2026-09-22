@@ -89,6 +89,7 @@ Create a deployable web application without frameworks
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0724-find-pivot-index) |
@@ -118,6 +119,7 @@ Create a deployable web application without frameworks
 | [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0387-first-unique-character-in-a-string) |
@@ -221,6 +223,7 @@ Create a deployable web application without frameworks
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
