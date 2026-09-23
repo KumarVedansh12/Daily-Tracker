@@ -399,4 +399,8 @@ Create a deployable web application without frameworks
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
