@@ -94,6 +94,7 @@ Create a deployable web application without frameworks
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
@@ -157,6 +158,7 @@ Create a deployable web application without frameworks
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
