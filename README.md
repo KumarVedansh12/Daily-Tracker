@@ -83,6 +83,7 @@ Create a deployable web application without frameworks
 | [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -205,6 +206,7 @@ Create a deployable web application without frameworks
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
@@ -225,6 +227,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
