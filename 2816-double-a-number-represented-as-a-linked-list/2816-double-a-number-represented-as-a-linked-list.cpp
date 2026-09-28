@@ -22,6 +22,7 @@ public:
         return prev;
     }
     ListNode* doubleIt(ListNode* head) {
+        if(!head) return head;
         int carry=0;
         ListNode* re=reverseLL(head);
         ListNode* temp=re;
