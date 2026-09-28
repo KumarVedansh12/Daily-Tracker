@@ -10,34 +10,29 @@
  */
 class Solution {
 public:
-    ListNode* reverseLL(ListNode* head){
-        ListNode* temp=head;
-        ListNode* prev=NULL;
-        while(temp!=NULL){
-            ListNode* front=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=front;
-        }
-        return prev;
-    }
     ListNode* doubleIt(ListNode* head) {
         if(!head) return head;
-        int carry=0;
-        ListNode* re=reverseLL(head);
-        ListNode* temp=re;
+        stack<int>st;
+        ListNode* temp=head;
         while(temp!=NULL){
-            int mul=temp->val*2+carry;
-            temp->val=mul%10;
-            carry=mul/10;;
+            st.push(temp->val);
             temp=temp->next;
         }
-        ListNode* fin=reverseLL(re);
+        ListNode* ans=NULL;
+        int carry=0;
+        while(!(st.empty())){
+            int mul=st.top()*2+carry;
+            st.pop();
+            carry=mul/10;
+            ListNode* newNode=new ListNode(mul%10);
+            newNode->next=ans;
+            ans=newNode;
+        }
         if(carry){
-                ListNode* newNode=new ListNode(carry);
-                newNode->next=fin;
-                fin=newNode;
-            }
-        return fin;
+            ListNode* newNode=new ListNode(carry);
+            newNode->next=ans;
+            ans=newNode;
+        }
+        return ans;
     }
 };
