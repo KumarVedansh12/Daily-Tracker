@@ -143,6 +143,7 @@ Create a deployable web application without frameworks
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3536-maximum-product-of-two-digits) |
@@ -307,6 +308,7 @@ Create a deployable web application without frameworks
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Create a deployable web application without frameworks
 | [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
