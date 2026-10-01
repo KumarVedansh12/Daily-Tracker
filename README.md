@@ -260,6 +260,7 @@ Create a deployable web application without frameworks
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -367,6 +368,7 @@ Create a deployable web application without frameworks
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2487-remove-nodes-from-linked-list) |
@@ -413,4 +415,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
