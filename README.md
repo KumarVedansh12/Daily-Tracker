@@ -253,6 +253,7 @@ Create a deployable web application without frameworks
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0046-permutations) |
 ## Heap (Priority Queue)
 |  |
@@ -262,6 +263,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -421,4 +423,9 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
