@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* rotateRight(ListNode* head, int k) {
+       ListNode* rotateRight(ListNode* head, int k) {
         if(head==NULL || head->next==NULL){
             return head;
         }
