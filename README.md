@@ -444,4 +444,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
