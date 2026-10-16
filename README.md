@@ -163,6 +163,7 @@ Create a deployable web application without frameworks
 | [0162-find-peak-element](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -448,6 +449,7 @@ Create a deployable web application without frameworks
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
 |  |
