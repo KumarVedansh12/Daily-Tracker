@@ -140,6 +140,7 @@ Create a deployable web application without frameworks
 | [0069-sqrtx](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0836-rectangle-overlap) |
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
@@ -164,6 +165,7 @@ Create a deployable web application without frameworks
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
