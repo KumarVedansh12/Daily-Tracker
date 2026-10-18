@@ -327,18 +327,21 @@ Create a deployable web application without frameworks
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -391,6 +394,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
