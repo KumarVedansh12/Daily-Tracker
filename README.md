@@ -331,6 +331,7 @@ Create a deployable web application without frameworks
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -338,6 +339,7 @@ Create a deployable web application without frameworks
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,6 +347,7 @@ Create a deployable web application without frameworks
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Database
 |  |
 | ------- |
@@ -409,6 +412,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0100-same-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -465,4 +469,8 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0155-min-stack) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
