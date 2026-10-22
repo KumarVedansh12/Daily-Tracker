@@ -9,12 +9,13 @@ public:
             }
             else{
                 if(st.empty()) return false;
-                if(s[i]==')' && st.top()!='(') return false;
-                if(s[i]=='}' && st.top()!='{') return false;
-                if(s[i]==']' && st.top()!='[') return false;
+                if(s[i]==')' && st.top()!='(')  return false;
+                if(s[i]=='}' && st.top()!='{')  return false;
+                if(s[i]==']' && st.top()!='[')  return false;
                 st.pop();
             }
         }
         return st.empty();
     }
 };
+
