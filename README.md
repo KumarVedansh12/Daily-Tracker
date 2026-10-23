@@ -95,6 +95,7 @@ Create a deployable web application without frameworks
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
+| [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0724-find-pivot-index) |
@@ -343,6 +344,7 @@ Create a deployable web application without frameworks
 | [0112-path-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -419,6 +421,7 @@ Create a deployable web application without frameworks
 | [0104-maximum-depth-of-binary-tree](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Bit Manipulation
 |  |
@@ -488,4 +491,5 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
