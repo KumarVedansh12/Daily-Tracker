@@ -1,31 +1,56 @@
 class Solution {
 public:
-    // vector<vector<int>>directions{{1,0}{-1,0},{0,1},{0,-1}};
-    void dfs(vector<vector<int>>& grid,int i, int j,int& peri){
-        int m=grid.size(); // cloumn ki size
+    vector<vector<int>>directions{{1,0},{-1,0},{0,1},{0,-1}};
+    // void dfs(vector<vector<int>>& grid,int i, int j,int& peri){
+    //     int m=grid.size(); // cloumn ki size
+    //     int n=grid[0].size(); //row ki size
+    //     if(i<0 || i>=m ||j<0 || j>=n || grid[i][j]==0){
+    //         peri++;
+    //         return;
+    //     }
+    //     if(grid[i][j]==-1){
+    //         return;
+    //     }
+    //     grid[i][j]=-1;
+    //     dfs(grid,i+1,j,peri); // bottom
+    //     dfs(grid,i-1,j,peri); // top
+    //     dfs(grid,i,j-1,peri); //left
+    //     dfs(grid,i,j+1,peri); // right
+    // }
+    int bfs(vector<vector<int>> & grid, int i , int j){
+         int m=grid.size(); // cloumn ki size
         int n=grid[0].size(); //row ki size
-        if(i<0 || i>=m ||j<0 || j>=n || grid[i][j]==0){
-            peri++;
-            return;
-        }
-        if(grid[i][j]==-1){
-            return;
-        }
+        int peri=0;
+        queue<pair<int,int>>que;
+        que.push({i,j});
         grid[i][j]=-1;
-        dfs(grid,i+1,j,peri); // bottom
-        dfs(grid,i-1,j,peri); // top
-        dfs(grid,i,j-1,peri); //left
-        dfs(grid,i,j+1,peri); // right
+        while(!(que.empty())){
+            auto it=que.front();
+            que.pop();
+            for(auto & dir : directions){
+                int i_=it.first+dir[0];
+                int j_=it.second+dir[1];
+                if(i_<0 || i_>=m ||j_<0 || j_>=n || grid[i_][j_]==0){
+                    peri++;
+                }
+                else if (grid[i_][j_]==-1){
+                    continue;
+                }
+                else{
+                    que.push({i_,j_});
+                    grid[i_][j_]=-1;
+                }
+            }
+        }
+        return peri;
     }
     int islandPerimeter(vector<vector<int>>& grid) {
         int m=grid.size(); // cloumn ki size
         int n=grid[0].size(); //row ki size
-        int peri=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1){
-                    dfs(grid,i,j,peri);
-                    return peri;
+                    return bfs(grid,i,j);
                 }
             }
         }
