@@ -336,6 +336,7 @@ Create a deployable web application without frameworks
 | [0112-path-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -346,6 +347,7 @@ Create a deployable web application without frameworks
 | [0112-path-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0733-flood-fill) |
@@ -359,6 +361,7 @@ Create a deployable web application without frameworks
 | [0112-path-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Database
 |  |
@@ -411,6 +414,7 @@ Create a deployable web application without frameworks
 | [0020-valid-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
