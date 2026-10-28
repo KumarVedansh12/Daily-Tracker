@@ -98,6 +98,7 @@ Create a deployable web application without frameworks
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0733-flood-fill) |
@@ -248,6 +249,7 @@ Create a deployable web application without frameworks
 | [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -482,6 +484,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0022-generate-parentheses) |
+| [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 ## Interactive
 |  |
 | ------- |
@@ -509,4 +512,12 @@ Create a deployable web application without frameworks
 | [0200-number-of-islands](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0733-flood-fill) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
