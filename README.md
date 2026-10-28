@@ -117,6 +117,7 @@ Create a deployable web application without frameworks
 | [2149-rearrange-array-elements-by-sign](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3169-count-days-without-meetings](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3169-count-days-without-meetings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3875-construct-uniform-parity-array-i) |
@@ -250,6 +251,7 @@ Create a deployable web application without frameworks
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3169-count-days-without-meetings](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3169-count-days-without-meetings) |
 | [3536-maximum-product-of-two-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3731-find-missing-elements) |
 ## Recursion
