@@ -86,6 +86,7 @@ Create a deployable web application without frameworks
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -486,6 +487,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0022-generate-parentheses](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 ## Interactive
 |  |
@@ -517,6 +519,7 @@ Create a deployable web application without frameworks
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 ## Longest Increasing Subsequence
 |  |
