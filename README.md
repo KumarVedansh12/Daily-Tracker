@@ -123,6 +123,7 @@ Create a deployable web application without frameworks
 | [3169-count-days-without-meetings](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3169-count-days-without-meetings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ Create a deployable web application without frameworks
 | [3312-sorted-gcd-pair-queries](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
