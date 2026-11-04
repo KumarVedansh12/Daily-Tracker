@@ -108,6 +108,7 @@ Create a deployable web application without frameworks
 | [0852-peak-index-in-a-mountain-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -152,6 +153,7 @@ Create a deployable web application without frameworks
 | [0367-valid-perfect-square](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0836-rectangle-overlap) |
+| [0910-smallest-range-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0910-smallest-range-ii) |
 | [1185-day-of-the-week](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1185-day-of-the-week) |
 | [1952-three-divisors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -255,6 +257,7 @@ Create a deployable web application without frameworks
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
+| [0910-smallest-range-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0910-smallest-range-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/3169-count-days-without-meetings) |
@@ -524,6 +527,7 @@ Create a deployable web application without frameworks
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
+| [0910-smallest-range-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0910-smallest-range-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
