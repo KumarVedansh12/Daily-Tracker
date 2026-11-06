@@ -98,6 +98,7 @@ Create a deployable web application without frameworks
 | [0209-minimum-size-subarray-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0646-maximum-length-of-pair-chain) |
@@ -235,6 +236,7 @@ Create a deployable web application without frameworks
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0922-sort-array-by-parity-ii) |
