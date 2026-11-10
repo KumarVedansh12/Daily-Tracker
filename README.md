@@ -82,6 +82,7 @@ Create a deployable web application without frameworks
 | [0046-permutations](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ Create a deployable web application without frameworks
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0160-intersection-of-two-linked-lists) |
@@ -521,6 +523,7 @@ Create a deployable web application without frameworks
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/KumarVedansh12/Daily-Tracker/tree/master/0733-flood-fill) |
